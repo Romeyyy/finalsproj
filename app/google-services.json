@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678402194104",
+    "firebase_url": "https://finaleldriod-default-rtdb.firebaseio.com",
+    "project_id": "finaleldriod",
+    "storage_bucket": "finaleldriod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678402194104:android:c7e0591029e6321eb4d24d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678402194104-g9m2529oj9jj76669u9glr8uljkqe518.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGC2v0fjlvbcZ81v1A-aJtI-SrVDpw_Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678402194104-g9m2529oj9jj76669u9glr8uljkqe518.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
